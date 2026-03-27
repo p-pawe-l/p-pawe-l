@@ -2,7 +2,7 @@
 
 Computer Science Student @ Warsaw University of Technology
 
-Member of [KNSI Golem](https://github.com/KNSI-Golem)
+Member of [KNSI Golem](https://www.linkedin.com/company/artificial-intelligence-society-golem/posts/?feedView=all)
 
 ---
 
