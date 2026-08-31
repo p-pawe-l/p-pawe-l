@@ -2,7 +2,7 @@
 
 Computer Science Student @ Warsaw University of Technology
 
-Member of [KNSI Golem](https://www.linkedin.com/company/artificial-intelligence-society-golem/posts/?feedView=all)
+Member of [KNSI Golem](https://www.linkedin.com/company/artificial-intelligence-society-golem/posts/?feedView=all) \\
 Creator of [parafia-leg.pl](https://parafia-leg.pl)
 
 
